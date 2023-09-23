@@ -1,0 +1,9 @@
+.env
+.DS_Store
+scratchpad.py
+global_query_product_dataset.py
+pandasai.log
+cache
+exports
+__pycache__
+global_question_embeddings.ann
